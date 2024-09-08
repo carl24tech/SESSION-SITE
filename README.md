@@ -1,7 +1,7 @@
-# SESSION-SITE-OF CARLTECH BOTS
+# SESSION-SITE-OF 𝘗𝘙𝘐𝘕𝘊𝘌 𝘔𝘜𝘡𝘈𝘔𝘐𝘓 BOTS
 
 
-## SESSION ID FOR CYBERION-V1
+## SESSION ID FOR 𝘗𝘙𝘐𝘕𝘊𝘌 𝘔𝘜𝘡𝘈𝘔𝘐𝘓-V1
  
   
   
