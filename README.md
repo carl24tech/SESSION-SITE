@@ -11,7 +11,28 @@
 
 
   
-  
+
+## 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐁𝐘 𝐇𝐄𝐑𝐎𝐊𝐔 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄𝐒
+
+
+<a href="https://cyberion-v1codes-3c5c98bf1fd6.herokuapp.com/pair"><img title="HEROKU PAIRING CODES" src="https://img.shields.io/badge/HEROKU PAIRING CODES-h?color=purple&style=for-the-badge&logo=heroku" width="230" height="38.45"/></a></p>
+
+
+
+ 
+ ## 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐒𝐂𝐀𝐍𝐍𝐈𝐍𝐆 𝐐𝐑 𝐂𝐎𝐃𝐄 𝐖𝐈𝐓𝐇 𝐄𝐗𝐓𝐄𝐑𝐍𝐀𝐋 𝐂𝐀𝐌𝐄𝐑𝐀
+ 
+
+<a href="https://cyberion-v1codes-3c5c98bf1fd6.herokuapp.com/qr"><img title="HEROKU QR CODES" src="https://img.shields.io/badge/HEROKU QR CODES-h?color=purple&style=for-the-badge&logo=heroku" width="230" height="38.45"/></a></p>
+
+
+
+
+ ## 𝐀𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒 𝐈𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐋
+ 
+
+ <a href="https://cyberion-v1codes-3c5c98bf1fd6.herokuapp.com/"><img title="ALL SESSIONS" src="https://img.shields.io/badge/ALL SESSIONS-h?color=green&style=for-the-badge&logo=ferari" width="230" height="38.45"/></a></p>
+
   
   
   2:𝑮𝑬𝑻 𝑺𝑺𝑺𝑰𝑶𝑵 𝑰𝑫 𝑩𝒀 𝑺𝑪𝑨𝑵𝑵𝑰𝑵𝑮 𝑪𝑶𝑫𝑬𝑺 𝑼𝑺𝑰𝑵𝑮 𝑬𝑿𝑻𝑬𝑹𝑵𝑨𝑳 𝑷𝑯𝑶𝑵𝑬 𝑪𝑨𝑴𝑬𝑹𝑨  
