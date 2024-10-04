@@ -7,7 +7,7 @@
 ## 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐁𝐘 𝐇𝐄𝐑𝐎𝐊𝐔 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄𝐒 (𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐋𝐘 𝐖𝐎𝐑𝐊𝐈𝐍𝐆)
 
 
-<a href="https://spark-x-sessions-859e67b7dcfd.herokuapp.com/pair"><img title="HEROKU-PAIRING CODES" src="https://img.shields.io/badge/HEROKU-PAIRING CODES-h?color=purple&style=for-the-badge&logo=heroku" width="230" height="38.45"/></a></p>
+<a href="https://spark-x-session-2e07b43b64e4.herokuapp.com/pair"><img title="HEROKU-PAIRING CODES" src="https://img.shields.io/badge/HEROKU-PAIRING CODES-h?color=purple&style=for-the-badge&logo=heroku" width="230" height="38.45"/></a></p>
 
 
 
@@ -15,7 +15,7 @@
  ## 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐒𝐂𝐀𝐍𝐍𝐈𝐍𝐆 𝐐𝐑 𝐂𝐎𝐃𝐄 𝐖𝐈𝐓𝐇 𝐄𝐗𝐓𝐄𝐑𝐍𝐀𝐋 𝐂𝐀𝐌𝐄𝐑𝐀 (𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐋𝐘 𝐖𝐎𝐑𝐊𝐈𝐍𝐆)
  
 
-<a href="https://spark-x-sessions-859e67b7dcfd.herokuapp.com/qr"><img title="HEROKU-QR CODES" src="https://img.shields.io/badge/HEROKU-QR CODES-h?color=purple&style=for-the-badge&logo=heroku" width="230" height="38.45"/></a></p>
+<a href="https://spark-x-session-2e07b43b64e4.herokuapp.com/qr"><img title="HEROKU-QR CODES" src="https://img.shields.io/badge/HEROKU-QR CODES-h?color=purple&style=for-the-badge&logo=heroku" width="230" height="38.45"/></a></p>
 
 
 
@@ -23,7 +23,7 @@
  ## 𝐀𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒 𝐈𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐋
  
 
- <a href="https://spark-x-sessions-859e67b7dcfd.herokuapp.com/"><img title="ALL-SESSIONS" src="https://img.shields.io/badge/ALL-SESSIONS-h?color=green&style=for-the-badge&logo=ferari" width="230" height="38.45"/></a></p>
+ <a href="https://spark-x-session-2e07b43b64e4.herokuapp.com/"><img title="ALL-SESSIONS" src="https://img.shields.io/badge/ALL-SESSIONS-h?color=green&style=for-the-badge&logo=ferari" width="230" height="38.45"/></a></p>
 
   
   
